@@ -1,0 +1,46 @@
+[bar]
+background = "#091110"
+background-alpha = 0.88
+text = "#ccd8d2"
+active = "#39b8ad"
+scale-with-font = true
+
+[hyprland]
+active-border = "#39b8ad #e8963e 42deg"
+active-border-foreground = "#f1f5f2"
+
+[menu]
+background = "#0d1716"
+background-alpha = 0.93
+text = "#ccd8d2"
+border = "#39b8ad"
+border-alpha = 0.72
+scrim = "#050a0a"
+scrim-alpha = 0.50
+selected-background = "#1d4845"
+selected-background-alpha = 0.96
+selected-text = "#f1f5f2"
+selected-border = "#e8963e"
+selected-border-alpha = 0.78
+
+[popups]
+background = "#0d1716"
+background-alpha = 0.93
+text = "#ccd8d2"
+border = "#39b8ad"
+border-alpha = 0.58
+
+[tooltip]
+background = "#091110"
+background-alpha = 0.96
+text = "#dce5e0"
+border = "#506c67"
+border-alpha = 0.64
+
+[notifications]
+background = "#0d1716"
+background-alpha = 0.94
+text = "#ccd8d2"
+border = "#39b8ad"
+border-alpha = 0.60
+countdown = "#e8963e"

@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Rain District — wet asphalt, aged teal, taxi amber, and reflected neon.
+accent = "#39b8ad"
+selection = "#1d4845"
+muted = "#506c67"
+
+background = "#0d1716"
+dark_background = "#091110"
+darker_background = "#050a0a"
+lighter_background = "#172725"
+
+foreground = "#ccd8d2"
+dark_foreground = "#6e8780"
+light_foreground = "#dce5e0"
+bright_foreground = "#f1f5f2"
+
+# A subtle two-tone edge mirrors cyan sky and amber street reflections.
+hyprland_active_border = "#39b8ad #e8963e 42deg"
+hyprland_inactive_border = "#29413d"
+active_border_color = "#39b8ad"
+active_tab_background = "#1d4845"
+
+red = "#d95f4f"
+yellow = "#d9b05b"
+orange = "#e27d38"
+green = "#72ad7d"
+cyan = "#55bdb3"
+blue = "#6699ae"
+magenta = "#bd7e98"
+brown = "#8d684f"
+
+bright_red = "#ed7967"
+bright_yellow = "#efca78"
+bright_green = "#8bc596"
+bright_cyan = "#75d4c9"
+bright_blue = "#83b4c7"
+bright_magenta = "#d49ab0"
